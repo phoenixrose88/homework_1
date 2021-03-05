@@ -14,11 +14,11 @@
 - Navigate into the project and open project in VS code
 - Right click on file to open the 'index.html' file in your default browser
 
-To clone the project type the following in your terminal:
+To clone the project type the following as separate commands in your terminal:
 
-- git clone https://phoenixrose88.github.io/homework_1/
-- cd homework_1
-- code .
+- `git clone https://phoenixrose88.github.io/homework_1/`
+- `cd homework_1`
+- `code .`
 
 This should open the cloned project in VS code.
 
