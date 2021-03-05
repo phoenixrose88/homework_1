@@ -28,6 +28,6 @@ This should open the cloned project in VS code.
 
 [Screenshot of website after refactoring](assets/images/website%20screenshot%202.jpg)
 
-As you can see the functioning and the appearance of the website remains the same after refactoring the HTML and CSS, hence nothing is broken.
+_As you can see the functioning and the appearance of the website remains the same after refactoring the HTML and CSS, hence nothing is broken._
 
 ## [click here](https://phoenixrose88.github.io/homework_1/) to go to the deployed application
