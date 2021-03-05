@@ -16,7 +16,7 @@
 
 To clone the project type the following as separate commands in your terminal:
 
-- `git clone https://phoenixrose88.github.io/homework_1/`
+- `git clone git@github.com:phoenixrose88/homework_1.git'
 - `cd homework_1`
 - `code .`
 
