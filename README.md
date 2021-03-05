@@ -24,7 +24,7 @@ This should open the cloned project in VS code.
 
 ## Screenshots
 
-[Screen shot of website before refactoring](assets/images/website%20screenshot%201.jpg)
+[Screenshot of website before refactoring](assets/images/website%20screenshot%201.jpg)
 
 [Screenshot of website after refactoring](assets/images/website%20screenshot%202.jpg)
 
