@@ -50,6 +50,7 @@ a {
 p {
   font-size: 16px;
 }
+/*Demonstrated below is the class that impacts the style the background section */
 
 .hero {
   height: 800px;
@@ -76,6 +77,8 @@ p {
   margin-left: 20px;
 }
 
+/*The class below, 'benefits' impacts the aside portion of the webpage*/
+
 .benefits {
   margin-right: 20px;
   padding: 20px;
@@ -87,6 +90,7 @@ p {
   background-color: #2589bd;
 }
 
+/*The classes below help to style the images in the aside section, hence they are collectively added to the same css styling */
 .benefit-lead,
 .benefit-brand,
 .benefit-cost {
@@ -104,6 +108,8 @@ h3 {
   margin: 10px auto;
   max-width: 150px;
 }
+
+/*The classes below help to style the images in the main section, hence they are collectively added to the same css styling */
 
 .search-engine-optimization,
 .online-reputation-management,
@@ -125,6 +131,7 @@ h3 {
   font-size: 36px;
 }
 
+/*The class below styles the footer and the heading in the footer */
 .footer {
   padding: 30px;
   clear: both;
